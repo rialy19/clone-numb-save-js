@@ -1,0 +1,24 @@
+{
+  "dependencies": {
+    "js-database-connection": "^1.0.5",
+    "mongodb": "^6.5.0"
+  },
+  "name": "clone-numb-save",
+  "version": "1.0.0",
+  "main": "index.js",
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/rialy19/clone-numb-save-js.git"
+  },
+  "author": "rialy",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/rialy19/clone-numb-save-js/issues"
+  },
+  "homepage": "https://github.com/rialy19/clone-numb-save-js#readme",
+  "description": ""
+}
