@@ -1,12 +1,14 @@
 {
   "dependencies": {
+    "auto-generated-email": "^1.0.0",
+    "i": "^0.3.7",
     "js-database-connection": "^1.0.5",
-    "mongodb": "^6.5.0"
+    "mongodb": "^6.5.0",
+    "npm": "^10.5.0"
   },
   "name": "clone-numb-save",
   "version": "1.0.0",
   "main": "index.js",
-  "devDependencies": {},
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
